@@ -1,14 +1,4 @@
 # Advanced encryption standard (AES128, AES192, AES256) in Verilog
-![aes from Kekayan, Medium](https://user-images.githubusercontent.com/29122581/169694136-ca48f098-d5f5-448f-8016-4cb9a9b0e300.png)
-<div align="center">
-  
-  ![GitHub stars](https://img.shields.io/github/stars/michaelehab/AES-Verilog?style=plastic)
-  ![GitHub forks](https://img.shields.io/github/forks/michaelehab/AES-Verilog?style=plastic)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/michaelehab/AES-Verilog?style=plastic)
-  ![GitHub top language](https://img.shields.io/github/languages/top/michaelehab/AES-Verilog?style=plastic)
-  
-</div>
-
 # Explanation:
 The Advanced Encryption Standard (AES) specifies a FIPS-approved
 cryptographic algorithm that can be used to protect electronic data. The AES algorithm is a
